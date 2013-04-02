@@ -1,39 +1,26 @@
-<%= render :partial => 'shared/token_form' %>
+<h3>Tokens</h3>
 
-
-<div id="ribbits" class="panel left">
-    <h1>Your Ribbit Profile</h1>
-    <div class="ribbitWrapper">
-        <img class="avatar" src="<%= @user.avatar_hash %>">
-        <span class="name"><%= @user.name %></span> @<%= @user.username %>
-        <p>
-        <%= @user.ribbits.size %> Ribbits
-        <span class="spacing"><%= @user.followers.count %> Followers</span>
-        <span class="spacing"><%= @user.followeds.count %> Following</span>
-        </p>
-        <% if current_user and @user != current_user %>
-                <% if current_user.following? @user %>
-                    <%= form_tag relationship_path, method: :delete do %>
-                        <%= submit_tag "Unfollow" %>
-                    <% end %>
-                <% else %>
-                    <%= form_for @relationship do %>
-                        <%= hidden_field_tag :followed_id, @user.id %>
-                        <%= submit_tag "Follow" %>
-                    <% end %>
-                <% end %>
+<div class="row">
+<div class="span3">
+  <div class="tile">
+    <img class="tile-image big-illustration" alt="" src="<%= @user.avatar_hash %>">
+    <h3 class="tile-title"><%= @user.name %> / @<%= @user.username %></h3>
+    <p><%= @user.ribbits.size %> token, <%= @user.followers.count %> followers, <%= @user.followeds.count %> following</p>
+    <% if current_user and @user != current_user %>
+      <% if current_user.following? @user %>
+        <%= form_tag relationship_path, method: :delete do %>
+          <%= submit_tag "Unfollow", class: "btn btn-primary btn-large btn-block" %>
         <% end %>
-    </div>
-</div>
-<div class="panel left">
-    <h1>Your Ribbits</h1>
-    <% @user.ribbits.each do |ribbit| %>
-        <div class="ribbitWrapper">
-            <img class="avatar" src="<%= @user.avatar_hash %>">
-            <span class="name"><%= @user.name %></span>
-            @<%= @user.username %>
-            <span class="time"><%= time_ago_in_words(ribbit.created_at) %></span>
-            <p> <%= ribbit.content %> </p>
-        </div>
+      <% else %>
+        <%= form_for @relationship do %>
+          <%= hidden_field_tag :followed_id, @user.id %>
+          <%= submit_tag "Follow", class: "btn btn-primary btn-large btn-block" %>
+        <% end %>
+      <% end %>
     <% end %>
+  </div>
+</div>
+<div class="span9">
+  <%= render :partial => 'shared/internal_token_list' %>
+</div>
 </div>

@@ -20,32 +20,37 @@
 </head>
 <body>
 <div class="container">
-  <div class="row">
-    <h1>
-      DayToken &raquo;
-      <small>One status update per day. Make it memorable.</small>
-    </h1>
-  </div> <!-- /demo-headline -->
+<div class="demo-text-box prl">
+  <h3 class="demo-panel-title">DayToken</h3>
+  <h5>What do you want to remember about today?</h5>
+  <p>What if you could only make one status update per day? What would you share?</p>
+  <p>Did you close a big sale? Get your Master's degree? Share an existential moment with your dog?</p>
+  <p>Choose the one that matters the most and share it. One at a time.</p>
+</div>
 
+<div class="row">
   <% if current_user %>
-    <%= link_to "Buddies' Ribbits", buddies_path %>
-    <%= link_to "Public Profiles", users_path %>
-    <%= link_to "My Profile", current_user %>
-    <%= link_to "Public Ribbits", ribbits_path %>
-    <%= link_to "Log Out", logout_path %>
+    <div class="dk_container span3 dk_shown dk_theme_default" id="dk_container_herolist" tabindex="1">
+      <a class="dk_toggle"><span class="dk_label">DayToken</span><span class="select-icon"></span></a>
+      <div class="dk_options" style="top: 38px; ">
+        <ul class="dk_options_inner">
+          <li class=""><%= link_to "My Profile", current_user, ':data-dk-dropdown-value' => "1" %></li>
+          <li class=""><%= link_to "Following", buddies_path, ':data-dk-dropdown-value' => "2" %></li>
+          <li class=""><%= link_to "Explore", ribbits_path, ':data-dk-dropdown-value' => "3" %></li>
+          <li class=""><%= link_to "Log Out", logout_path, ':data-dk-dropdown-value' => "4" %></li>
+        </ul>
+      </div>
+    </div>
   <% else %>
-    <%= form_tag sessions_path do %>
-      <%= text_field_tag :username, nil, placeholder: "username" %>
-      <%= password_field_tag :password, nil,  placeholder: "password" %>
-      <%= submit_tag "Log In" %>
-    <% end %>
+    <%= render :partial => 'shared/login_box' %>
   <% end %>
 
   <% flash.each do |name, msg| %>
     <%= content_tag :div, msg, class: "flash #{name}" %>
   <% end %>
 
-
+    <%= render :partial => 'shared/token_form' %>
+  </div> <!-- /demo-headline -->
 
   <%= yield %>
 
@@ -56,28 +61,23 @@
   <div class="container">
     <div class="row">
       <div class="span12">
-        <h3 class="footer-title">What's DayToken?</h3>
-        <p><strong>DayToken</strong> is about remembering what's worth remembering.</p>
-        <p>What if you could only make one status update per day? What would you share?</p>
-        <p>Did you get in a car accident? Close a big sale? Get your Master's degree? All on the same day?</p>
-        <p>Choose the one that matters the most and share it.</p>
-        <a href="http://mvkel.com" target="_blank">Built by mvkel</a>
+        <h3 class="footer-title">DayToken</h3>
+
       </div> <!-- /span8 -->
     </div>
   </div>
 </footer>
 
 <!-- Load JS here for greater good =============================-->
-<script src="js/jquery-1.8.2.min.js"></script>
-<script src="js/jquery-ui-1.10.0.custom.min.js"></script>
-<script src="js/jquery.dropkick-1.0.0.js"></script>
-<script src="js/custom_checkbox_and_radio.js"></script>
-<script src="js/custom_radio.js"></script>
-<script src="js/jquery.tagsinput.js"></script>
-<script src="js/bootstrap-tooltip.js"></script>
-<script src="js/jquery.placeholder.js"></script>
-<script src="http://vjs.zencdn.net/c/video.js"></script>
-<script src="js/application.js"></script>
+<script src="/js/jquery-1.8.2.min.js"></script>
+<script src="/js/jquery-ui-1.10.0.custom.min.js"></script>
+<script src="/js/jquery.dropkick-1.0.0.js"></script>
+<script src="/js/custom_checkbox_and_radio.js"></script>
+<script src="/js/custom_radio.js"></script>
+<script src="/js/jquery.tagsinput.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
+<script src="/js/jquery.placeholder.js"></script>
+<script src="/js/application.js"></script>
 <!--[if lt IE 8]>
   <script src="js/icon-font-ie7.js"></script>
   <script src="js/icon-font-ie7-24.js"></script>

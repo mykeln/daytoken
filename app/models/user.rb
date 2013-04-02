@@ -9,7 +9,7 @@ class User < ActiveRecord::Base
   before_validation :prep_email
   before_save :create_avatar_hash
 
-  attr_accessible :email, :name, :password, :password_confirmation, :username, :avatar_hash
+  attr_accessible :email, :name, :password, :username, :avatar_hash
 
   has_secure_password
 

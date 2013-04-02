@@ -1,0 +1,20 @@
+  <div class="row demo-samples">
+    <div class="span12">
+      <div class="todo mrm">
+        <ul>
+          <% @ribbits.each do |ribbit| %>
+            <%#= render :partial => 'token_item' %>
+            <li class="todo">
+              <div class="todo-icon"><%= ribbit.user.username %></div>
+              <div class="todo-content">
+                <h4 class="todo-name">
+                  <%= ribbit.content %>
+                </h4>
+                <%= time_ago_in_words(ribbit.created_at) %>
+              </div>
+            </li>
+          <% end %>
+        </ul>
+      </div>
+    </div> <!-- /todo list -->
+  </div>
