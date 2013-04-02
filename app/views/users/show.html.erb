@@ -1,11 +1,16 @@
-<h3>Tokens</h3>
-
-<div class="row">
+<h2>My Memories</h2>
+<div class="span9">
+  <%= render :partial => 'shared/internal_token_list' %>
+</div>
 <div class="span3">
-  <div class="tile">
-    <img class="tile-image big-illustration" alt="" src="<%= @user.avatar_hash %>">
-    <h3 class="tile-title"><%= @user.name %> / @<%= @user.username %></h3>
-    <p><%= @user.ribbits.size %> token, <%= @user.followers.count %> followers, <%= @user.followeds.count %> following</p>
+    <div class="tile">
+      <img class="tile-image big-illustration" alt="" src="<%= @user.avatar_hash %>">
+      <h3 class="tile-title"><%= @user.name %></h3>
+      <h4>@<%= @user.username %></h4>
+      <h5><%= @user.ribbits.size %> mems</h5>
+      <h6><%= @user.followers.count %> followers</h6>
+      <h6><%= @user.followeds.count %> following</h6>
+
     <% if current_user and @user != current_user %>
       <% if current_user.following? @user %>
         <%= form_tag relationship_path, method: :delete do %>
@@ -19,8 +24,4 @@
       <% end %>
     <% end %>
   </div>
-</div>
-<div class="span9">
-  <%= render :partial => 'shared/internal_token_list' %>
-</div>
 </div>

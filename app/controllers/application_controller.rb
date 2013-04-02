@@ -1,6 +1,12 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
 
+  before_filter :get_app_name
+
+  def get_app_name
+    @app_name = "DayToken"
+  end
+
 private
 
   def current_user

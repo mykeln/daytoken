@@ -1,20 +1,17 @@
-  <div class="row demo-samples">
     <div class="span12">
       <div class="todo mrm">
         <ul>
           <% @ribbits.each do |ribbit| %>
-            <%#= render :partial => 'token_item' %>
             <li class="todo">
-              <div class="todo-icon"><%= ribbit.user.username %></div>
+              <div class="todo-icon"><i class="fui-time-16"></i></div>
               <div class="todo-content">
                 <h4 class="todo-name">
                   <%= ribbit.content %>
                 </h4>
-                <%= time_ago_in_words(ribbit.created_at) %>
+                <%= ribbit.user.username %> / <%= (ribbit.created_at).strftime("%b%d") %>
               </div>
             </li>
           <% end %>
         </ul>
       </div>
     </div> <!-- /todo list -->
-  </div>
