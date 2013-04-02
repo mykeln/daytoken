@@ -9,7 +9,7 @@ class SessionsController < ApplicationController
       session[:user_id] = user.id
       redirect_to root_url, notice: "You're now logged in"
     else
-      redirect_to root_url, flash: "Your username or password wasn't right"
+      redirect_to root_url, notice: "Your username or password wasn't right"
     end
   end
 

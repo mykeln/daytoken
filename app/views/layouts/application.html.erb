@@ -21,7 +21,9 @@
 <body>
 <div class="container">
   <% flash.each do |name, msg| %>
-    <%= content_tag :div, msg, class: "flash #{name}" %>
+    <dl class="palette palette-alizarin">
+      <%= content_tag :dd, msg, class: "flash #{name}" %>
+    </dl>
   <% end %>
 
   <div class="row">

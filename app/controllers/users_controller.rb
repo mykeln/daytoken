@@ -36,6 +36,7 @@ class UsersController < ApplicationController
 
     if @user.save
       session[:user_id] = @user.id
+      #TODO: create first ribbit that says "Signed up to DayToken to remember the important stuff."
       redirect_to @user, notice: "You're now ready to memorize your days"
     else
       render 'new'
