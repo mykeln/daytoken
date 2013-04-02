@@ -1,3 +1,12 @@
-.demo-logo {
-  font-size: 40px;
+.btn-toolbar .btn {
+  padding: 10px 35px 9px;
+}
+
+.intro p {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.login-form .login-field {
+  width: 95%;
 }

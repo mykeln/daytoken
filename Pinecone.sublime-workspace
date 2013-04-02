@@ -1,0 +1,1778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hidden",
+				"hiddeninput"
+			],
+			[
+				"joyride-",
+				"joyride-tip-guide"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"customSty",
+				"customStyleSelectBoxInner"
+			],
+			[
+				"fon",
+				"font_family"
+			],
+			[
+				"span",
+				"span"
+			],
+			[
+				"rounde",
+				"rounded-corners"
+			],
+			[
+				"switch",
+				"switch"
+			],
+			[
+				"input",
+				"inputshadow"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"entered",
+				"enteredfte"
+			],
+			[
+				"clamped",
+				"clampedfte"
+			],
+			[
+				"hoursY1",
+				"hoursY1"
+			],
+			[
+				"itPro",
+				"itProjectManagerCost"
+			],
+			[
+				"40px",
+				"40px"
+			],
+			[
+				"price",
+				"pricePerFte"
+			],
+			[
+				"data",
+				"data_fte"
+			],
+			[
+				"school",
+				"schoolFte"
+			],
+			[
+				"trumb",
+				"trumbacostfeature"
+			],
+			[
+				"inhouse",
+				"inhousecostfte"
+			],
+			[
+				"insert_in",
+				"insert_inhousecostfte"
+			],
+			[
+				"form",
+				"formatCurrency"
+			],
+			[
+				"inhou",
+				"inhousecostfeature"
+			],
+			[
+				"insert_cost",
+				"insert_inhousecostfeature"
+			],
+			[
+				"enroll",
+				"enrollmentDifference"
+			],
+			[
+				"feature",
+				"featureMultiplier"
+			],
+			[
+				"enrol",
+				"enrollmentDifference"
+			],
+			[
+				"enro",
+				"enrollmentFloor"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"syste",
+				"light_systemcolor"
+			],
+			[
+				"light_colo",
+				"light_colorfive"
+			],
+			[
+				"light",
+				"light_colorfour"
+			],
+			[
+				"light_color",
+				"light_colorthree"
+			],
+			[
+				"light_c",
+				"light_colortwo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/shared/_external_token_list.html.erb",
+			"settings":
+			{
+				"buffer_size": 490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_internal_token_list.html.erb",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/ribbits/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/ribbit.rb",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/buddies.html.erb",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/flat-ui.css",
+			"settings":
+			{
+				"buffer_size": 68140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_signup_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_login_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_token_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 2025,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"list",
+				"Snippet: list-style-type:disc"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"border-ra",
+				"Snippet: border-radius"
+			],
+			[
+				"radius",
+				"Snippet: -moz-border-radius"
+			],
+			[
+				"snippet",
+				"Snippet: border"
+			],
+			[
+				"Snippet: border radiu",
+				"Snippet: -webkit-border-radius"
+			],
+			[
+				"Snippet: ra",
+				"Snippet: border-radius"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git quick co",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 124.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mykel/Sites/daytoken/public/css/flat-ui.css",
+		"/Users/Mykel/Sites/daytoken/boot.sh",
+		"/Users/Mykel/Sites/daytoken/config.ru",
+		"/Users/Mykel/Sites/daytoken/Gemfile",
+		"/Users/Mykel/Sites/daytoken/Gemfile.lock",
+		"/Users/Mykel/Sites/daytoken/Rakefile",
+		"/Users/Mykel/Sites/daytoken/README.rdoc",
+		"/Users/Mykel/Sites/daytoken/public/style.less",
+		"/Users/Mykel/Sites/daytoken/config/environments/production.rb",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_signup_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/config/environments/development.rb",
+		"/Users/Mykel/Sites/daytoken/db/schema.rb",
+		"/Users/Mykel/Sites/daytoken/README.md",
+		"/Users/Mykel/Localist/app/platforms/manhattan/views/school/_add_event_block.html.erb",
+		"/Users/Mykel/Localist/app/views/school/_add_event_block.html.erb",
+		"/Users/Mykel/Localist/app/views/event/_ticket_lightbox.html.erb",
+		"/Users/Mykel/Localist/app/platforms/manhattan/views/event/_edit_sidebar.html.erb",
+		"/Users/Mykel/Localist/app/views/about/about.html.erb",
+		"/Users/Mykel/Dropbox/-Localist.sublime-project",
+		"/Users/Mykel/Localist/app/views/about/examples_highered.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/sass/sales.scss",
+		"/Users/Mykel/Localist/app/views/about/_join_bar.html.erb",
+		"/Users/Mykel/Localist/public/javascripts/sales.js",
+		"/Users/Mykel/Localist/app/views/about/_getstarted_bar.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/welcome/index.html.erb",
+		"/Users/Mykel/Localist/app/views/layouts/admin.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/sass/_base.scss",
+		"/Users/Mykel/Localist/public/stylesheets/sass/_colors.scss",
+		"/Users/Mykel/Localist/app/views/about/_demo_form.html.erb",
+		"/Users/Mykel/Localist/app/views/about/_next_steps.html.erb",
+		"/Users/Mykel/Localist/app/views/platform/login.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/sass/admin.scss",
+		"/Users/Mykel/Localist/app/views/about/pricing.html.erb",
+		"/Users/Mykel/Localist/app/views/about/partners.html.erb",
+		"/Users/Mykel/Localist/app/views/form_mailer/sales.text.erb",
+		"/Users/Mykel/Localist/app/views/form_mailer/new_platform.text.erb",
+		"/Users/Mykel/Localist/app/views/form_mailer/want_invite.text.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_bloggers.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_conventioncenters.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_hotels.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_media.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_nonprofits.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_groups.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_performers.html.erb",
+		"/Users/Mykel/Localist/app/views/about/privacy.html.erb",
+		"/Users/Mykel/Localist/app/views/about/terms.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_retail.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_restaurants.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_tourism.html.erb",
+		"/Users/Mykel/Localist/app/views/about/_nav_examples.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples_other.html.erb",
+		"/Users/Mykel/Localist/app/views/about/examples.html.erb",
+		"/Users/Mykel/Localist/app/views/about/ebook.html.erb",
+		"/Users/Mykel/Localist/app/views/platform/invite_thankyou.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/sass/_fonts.scss",
+		"/Users/Mykel/Localist/public/stylesheets/sass/_mixins.scss",
+		"/Users/Mykel/Localist/app/views/platform/new.html.erb",
+		"/Users/Mykel/Localist/app/views/about/features.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/welcome/test.html.erb",
+		"/Users/Mykel/Localist/app/views/event/_edit_sidebar.html.erb",
+		"/Users/Mykel/Localist/app/platforms/emmanuel/shared/_minicalendar.html.erb",
+		"/Users/Mykel/Localist/app/views/shared/_minicalendar.html.erb",
+		"/Users/Mykel/Localist/app/platforms/clemson/views/layouts/_ingest_layout.mobile.erb",
+		"/Users/Mykel/Localist/app/platforms/emmanuel/views/layouts/_ingest_layout.mobile.erb",
+		"/Users/Mykel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Mykel/Localist/app/platforms/emmanuel/views/school/view.html.erb",
+		"/Users/Mykel/Localist/app/views/school/view.html.erb",
+		"/Users/Mykel/Localist/app/platforms/liberty/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/platforms/jhu/views/widget/view.html.erb",
+		"/Users/Mykel/Localist/app/views/widget/view.html.erb",
+		"/Users/Mykel/Desktop/Ultimately Localist is about ...",
+		"/Users/Mykel/Localist/app/views/event/edit.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/events/edit.html.erb",
+		"/Users/Mykel/Localist/app/platforms/uri/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/platforms/towson/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/platforms/mica/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/platforms/jhu/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/views/auth/login.html.erb",
+		"/Users/Mykel/Localist/app/platforms/risd/views/shared/lightboxes/_login.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/event_groups/edit.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/default.css",
+		"/Users/Mykel/Localist/app/platforms/williams/views/event/_edit_sidebar.html.erb",
+		"/Users/Mykel/Localist/app/views/newsletter_mailer/_header.liquid",
+		"/Users/Mykel/Localist/app/platforms/goucher/views/newsletter_mailer/_header.liquid",
+		"/Users/Mykel/Localist/app/views/about/resources_cs_liberty.html.erb",
+		"/Users/Mykel/Localist/app/views/about/resources_cs_depaul.html.erb",
+		"/Users/Mykel/Localist/app/views/about/resources_cs_columbia.html.erb",
+		"/Users/Mykel/Localist/app/views/about/resources_cs_clemson.html.erb",
+		"/Users/Mykel/Localist/app/views/newsletter_mailer/digest.erb",
+		"/Users/Mykel/Localist/app/platforms/bryant/views/newsletter_mailer/digest.erb",
+		"/Users/Mykel/Localist/app/platforms/bryant/views/newsletter_mailer/checking_in.erb",
+		"/Users/Mykel/Localist/app/platforms/bryant/views/newsletter_mailer/_header.liquid",
+		"/Users/Mykel/Localist/app/platforms/bryant/views/newsletter_mailer/_footer.liquid",
+		"/Users/Mykel/Localist/app/views/about/resources_cs_uri.html.erb",
+		"/Users/Mykel/Localist/app/views/settings/notifications.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/users/edit.html.erb",
+		"/Users/Mykel/Localist/app/views/about/attendance.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/users/_group.html.erb",
+		"/Users/Mykel/Localist/app/views/about/about_localist.html.erb",
+		"/Users/Mykel/Localist/app/views/about/trending.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/platforms/settings.html.erb",
+		"/Users/Mykel/Localist/app/views/layouts/_ingest_layout.html.erb",
+		"/Users/Mykel/Localist/app/views/calendar/_calendar_nav.html.erb",
+		"/Users/Mykel/Localist/app/views/calendar/list.html.erb",
+		"/Users/Mykel/Localist/app/platforms/dclinktank/views/calendar/list.html.erb",
+		"/Users/Mykel/Localist/app/platforms/jdrf/views/calendar/list.html.erb",
+		"/Users/Mykel/Localist/app/views/calendar/view.html.erb",
+		"/Users/Mykel/Localist/app/views/profile/view.html.erb",
+		"/Users/Mykel/Localist/app/views/shared/_platform_nav.html.erb",
+		"/Users/Mykel/Localist/app/views/profile/home.html.erb",
+		"/Users/Mykel/Localist/app/views/about/calculator.html.erb",
+		"/Users/Mykel/Localist/public/stylesheets/sass/responsivegrid.scss",
+		"/Users/Mykel/Localist/public/stylesheets/responsivegrid.css",
+		"/Users/Mykel/Localist/app/views/about/resources.html.erb",
+		"/Users/Mykel/Desktop/blah.csv",
+		"/Users/Mykel/Localist/app/views/about/features_design.html.erb",
+		"/Users/Mykel/Localist/app/views/about/landingtrade.html.erb",
+		"/Users/Mykel/Localist/app/views/admin/platforms/edit.html.erb",
+		"/Users/Mykel/Localist/app/views/group/_group_buttons.html.erb",
+		"/Users/Mykel/Localist/app/views/platform/personalize.html.erb",
+		"/Users/Mykel/Localist/app/views/about/_next_steps_tg.html.erb",
+		"/Users/Mykel/Localist/app/views/about/tailgate.html.erb",
+		"/Users/Mykel/Localist/app/views/platform_mailer/welcome.html.erb",
+		"/Users/Mykel/Localist/app/views/layouts/about.html.erb",
+		"/Users/Mykel/Localist/app/views/about/careers.html.erb",
+		"/Users/Mykel/Localist/app/views/about/press_kit.html.erb",
+		"/Users/Mykel/Localist/app/platforms/newschool/views/school/_add_event_block.html.erb"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+			"",
+			"grid_container",
+			"",
+			"/Users/Mykel/Localist/app/views/admin",
+			"",
+			"/Users/Mykel/Localist/app/views/admin",
+			"",
+			"*.scss",
+			"",
+			"<open files>",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			".scss",
+			"scss",
+			"",
+			".scss",
+			"",
+			"*.erb",
+			".erb",
+			"",
+			"/Users/Mykel/Localist/app/platforms/collegetown",
+			"",
+			"/Users/Mykel/Localist/public/stylesheets/sass",
+			"/Users/Mykel/Localist/app/views",
+			"",
+			"/Users/Mykel/Localist/public/stylesheets/sass",
+			"",
+			"/Users/Mykel/Localist/app/views/admin",
+			"",
+			"/Users/Mykel/Localist/app/views/about",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank/views/notifications_mailer",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank",
+			"",
+			"/Users/Mykel/Localist/app/platforms/dclinktank",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input[type",
+			".btn-toolbar .btn",
+			"Following Memo",
+			"validate",
+			"</h2",
+			"Recent Memories",
+			"password_digest",
+			"emai",
+			"error",
+			"errors",
+			"stylesheets",
+			"less.js",
+			"gfx",
+			"This event requi",
+			"Share Events</h2",
+			"Share Events</h3>",
+			"Share Events</h2>",
+			"24",
+			"render :parti",
+			"f.text",
+			"More HIgher ed",
+			"join_busy",
+			"Thanks for",
+			"placeholder",
+			"password",
+			"Create your ",
+			"form_box join_busy",
+			"Thanks! we're",
+			"join_act",
+			"join_bar",
+			"tooltip_temp",
+			"take the next",
+			"join_ac",
+			"span.pla",
+			"join_ac",
+			"form_box label input",
+			"form_box ",
+			"join_ac",
+			"tooltip_temp",
+			"tooltip",
+			"join-calendar-name",
+			"229px",
+			"form_box label input",
+			"form_card",
+			"Reach Out",
+			"dark_colorfiv",
+			"dark_color",
+			"dark_colorfive",
+			"dark_color",
+			"tooltip_welcome",
+			"Congrat",
+			"watch tutorial",
+			"onboard_ac",
+			".user_ac",
+			"getstarted_ac",
+			"user_act",
+			"getst",
+			"getstarted_ac",
+			"getstart",
+			"get started",
+			"View Your Event",
+			"start your",
+			"join_action",
+			"Email / Phone",
+			"pricing_form",
+			":partial => 'demo_form'",
+			"demo_form",
+			"example_form",
+			"form_box label in",
+			"Full Name",
+			"In this ind",
+			"”",
+			"“",
+			"teams",
+			"events per month",
+			"Sign up for free",
+			"about_calltoaction",
+			"100 ",
+			"200 ",
+			"200/",
+			"weight",
+			"join_action",
+			"overri",
+			"tooltip",
+			"tempurl",
+			"tooltip",
+			"video",
+			"rel=\"tool",
+			"getstarted",
+			"action_button",
+			"getstar",
+			"@include box-shadow",
+			"box-shadow",
+			"box-shad",
+			"box_shadow",
+			"getstarted",
+			"getstarted_bar",
+			"next",
+			"font_fam",
+			"user_actio",
+			"the admin dash",
+			"spinner",
+			"creating_spin",
+			"Batch Event Add",
+			"confirm",
+			"configm",
+			"x-recurrance-advanced-wrapper",
+			"x-recurrence-day-wrapper",
+			"sun",
+			"add another date",
+			"daily until",
+			"p.prev",
+			"ins",
+			"#x-new-instance-input",
+			"event create",
+			"p.preview",
+			"<sup>required</sup>",
+			"Where's the desc",
+			"promo_screens",
+			"getstarted_button_bar",
+			"get started",
+			"Enter your calendar's",
+			"blog",
+			"grid_container case_study",
+			"case_stu",
+			"The Problem",
+			"What you'll read",
+			"Localist eBook"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"onboard_ac",
+			"\"",
+			"<sup>*</sup>",
+			"\\n",
+			"img src=\"http://images-cf.localist.com",
+			"localist.com",
+			"a target=\"_blank\" href",
+			"",
+			"localist.com",
+			"Localist",
+			"",
+			"\\n",
+			"\"example_form\"",
+			"<div class=\"landing_form\"><%= render :partial => 'demo_form', :locals  => {:form_id => 'example_",
+			"<p><a href=",
+			"</p>",
+			"\\n",
+			"\\n\\n<a href=",
+			"</td>\\n<td class=\"have\">",
+			"",
+			"top center",
+			"center center",
+			"Vollkorn",
+			"</div>",
+			"<div class=\"action_button\">",
+			"</span></h3>",
+			"<h3><span>",
+			"</h5>",
+			"",
+			"item event_item",
+			"resourceblob",
+			" resource_blob",
+			" resources",
+			"resources",
+			"Lato",
+			"|PT+Sans+Narrow:400,700|",
+			"Gentium+Book+Basic",
+			".jpg",
+			"",
+			"\\n",
+			"if event.business || event.location.present?",
+			"",
+			"$modal_header_text",
+			"",
+			"$header_divider",
+			"$header_color",
+			"25px",
+			"right",
+			"grid_6",
+			"/images/",
+			"",
+			"View Today",
+			"h5>",
+			"page_link",
+			"$section_header_h3_left",
+			"$section_header_h3_span",
+			"$input_font",
+			"class=\"partner ",
+			".cloud.",
+			"class=\"cloud ",
+			"</h4>\n      </div>",
+			"<div class=\"grid_4 alpha\">\n        <h4>",
+			"h4",
+			"",
+			"/div>",
+			"div id",
+			"%",
+			"",
+			"\\n<meta name=\"description\" content=\"\"/>\n\\n<meta name=\"keywords\" content=\"\"/>\\n\\n",
+			"<meta name=\"description\" content=\"\"/>\n\\n<meta name=\"keywords\" content=\"\"/>\\n\\n",
+			"<meta name=\"description\" content=\"\"/>\n<meta name=\"keywords\" content=\"\"/>\\n\\n",
+			"\\n\\n\\n",
+			"",
+			"@include rounded-corners(3px)",
+			",",
+			".grid_container",
+			"",
+			" !important;",
+			"",
+			"\\n",
+			"",
+			"hero",
+			"$ticket_dark",
+			"$ticket_light",
+			"pushblob",
+			"featureblob ",
+			"featureblob",
+			"10px",
+			"",
+			"\" ",
+			" ",
+			"",
+			" ",
+			"\\n",
+			"\"",
+			"'",
+			"",
+			"/features/",
+			"/examples",
+			"-5",
+			"support.localist.com",
+			"_widget {}",
+			"",
+			"\\n  <div id=\"towson_events\" class=\"widget_group\" style=\"display:none;\">\n    <script type=\"text/javascript\" src=\"http://events.towson.edu/widget/view?&days=7&num=3&style=none&hideimage=1&target_blank=1\"></script>\n    <div class=\"pagination_container\">\n      <div class=\"page_heading\">\n        <h1><a href=\"http://events.towson.edu\" target=\"_blank\">View all events...</a></h1>\n      </div>\n    </div>\n  </div>",
+			"",
+			"Localist",
+			"",
+			" ",
+			"item_h6",
+			"item_h5",
+			"item_h4",
+			"item_h3",
+			"</a></span></h3>",
+			"<h3><span><a href=\"#\">",
+			"",
+			"canceled",
+			"\" title=\"\">",
+			"",
+			"href=\"/\"",
+			"",
+			"Localist Administration",
+			"Localist",
+			" ",
+			"Localist",
+			" ",
+			"Localist",
+			"</p>\\n",
+			"\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/shared/_external_token_list.html.erb",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/shared/_internal_token_list.html.erb",
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2182,
+								2182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1574.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/ribbits/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/ribbit.rb",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/users/buddies.html.erb",
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/users/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/css/flat-ui.css",
+					"settings":
+					{
+						"buffer_size": 68140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20262,
+								20262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 33061.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/shared/_signup_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 1814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1796,
+								1796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 499.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/views/shared/_login_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/views/shared/_token_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 2025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2014,
+								2014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 659.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 306.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style.css",
+				"public/css/style.css"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"style.cs",
+				"public/css/style.css"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"signup",
+				"app/views/shared/_signup_form.html.erb"
+			],
+			[
+				"highered",
+				"views/about/examples_highered.html.erb"
+			],
+			[
+				"sales.sc",
+				"stylesheets/sass/sales.scss"
+			],
+			[
+				"login",
+				"views/platform/login.html.erb"
+			],
+			[
+				"join_b",
+				"views/about/_join_bar.html.erb"
+			],
+			[
+				"colors.sc",
+				"stylesheets/sass/_colors.scss"
+			],
+			[
+				"admin.sc",
+				"stylesheets/sass/admin.scss"
+			],
+			[
+				"admin",
+				"views/layouts/admin.html.erb"
+			],
+			[
+				"base.sc",
+				"stylesheets/sass/_base.scss"
+			],
+			[
+				"examples_high",
+				"views/about/examples_highered.html.erb"
+			],
+			[
+				"partner",
+				"views/about/partners.html.erb"
+			],
+			[
+				"demo_form",
+				"views/about/_demo_form.html.erb"
+			],
+			[
+				"sales.scss",
+				"stylesheets/sass/sales.scss"
+			],
+			[
+				"nav_ex",
+				"views/about/_nav_examples.html.erb"
+			],
+			[
+				"nav_examp",
+				"views/about/_nav_examples.html.erb"
+			],
+			[
+				"examples.",
+				"views/about/examples.html.erb"
+			],
+			[
+				"font",
+				"stylesheets/sass/_fonts.scss"
+			],
+			[
+				"new",
+				"views/platform/new.html.erb"
+			],
+			[
+				"ingest",
+				"platforms/clemson/views/layouts/_ingest_layout.mobile.erb"
+			],
+			[
+				"login.html.erb",
+				"platforms/liberty/views/shared/lightboxes/_login.html.erb"
+			],
+			[
+				"view",
+				"views/widget/view.html.erb"
+			],
+			[
+				"about",
+				"views/about/about.html.erb"
+			],
+			[
+				"attendan",
+				"views/about/attendance.html.erb"
+			],
+			[
+				"trending",
+				"views/about/trending.html.erb"
+			],
+			[
+				"_platform",
+				"views/shared/_platform_nav.html.erb"
+			],
+			[
+				"calc",
+				"views/about/calculator.html.erb"
+			],
+			[
+				"mixin",
+				"stylesheets/sass/_mixins.scss"
+			],
+			[
+				"sales",
+				"stylesheets/sass/sales.scss"
+			],
+			[
+				"responsive",
+				"stylesheets/responsivegrid.css"
+			],
+			[
+				"resources",
+				"views/about/resources.html.erb"
+			],
+			[
+				"examples_blog",
+				"views/about/examples_bloggers.html.erb"
+			],
+			[
+				"features",
+				"views/about/features_design.html.erb"
+			],
+			[
+				"example",
+				"views/about/examples_highered.html.erb"
+			],
+			[
+				"personalize",
+				"views/platform/personalize.html.erb"
+			],
+			[
+				"next_steps",
+				"views/about/_next_steps_tg.html.erb"
+			],
+			[
+				"tailg",
+				"views/about/tailgate.html.erb"
+			],
+			[
+				"examples",
+				"views/about/examples_highered.html.erb"
+			],
+			[
+				"press",
+				"views/about/press_kit.html.erb"
+			],
+			[
+				"careers",
+				"views/about/careers.html.erb"
+			],
+			[
+				"footer",
+				"views/about/_footer_nav.html.erb"
+			],
+			[
+				"header",
+				"views/shared/_header.html.erb"
+			],
+			[
+				"platform_info",
+				"views/shared/_platform_info_bar.html.erb"
+			],
+			[
+				"ad_300",
+				"views/shared/ads/_ad_300.html.erb"
+			],
+			[
+				"ad_init",
+				"views/shared/ads/_ad_init.html.erb"
+			],
+			[
+				"color.sc",
+				"stylesheets/sass/_colors.scss"
+			],
+			[
+				"base_layout",
+				"views/layouts/_base_layout.html.erb"
+			],
+			[
+				"ex",
+				"views/about/examples_highered.html.erb"
+			],
+			[
+				"exa",
+				"views/about/examples_bloggers.html.erb"
+			],
+			[
+				"admin_men",
+				"views/shared/_admin_menu.html.erb"
+			],
+			[
+				"reauth",
+				"views/facebook/reauth_prompt.html.erb"
+			],
+			[
+				"next_s",
+				"views/about/_next_steps.html.erb"
+			],
+			[
+				"footer_nav",
+				"views/about/_footer_nav.html.erb"
+			],
+			[
+				"helper",
+				"javascripts/mobile/helper.js"
+			],
+			[
+				".mobile",
+				"platforms/clemson/views/layouts/_ingest_layout.mobile.erb"
+			],
+			[
+				"_login.html.erb",
+				"views/shared/lightboxes/_login.html.erb"
+			],
+			[
+				"terms",
+				"views/about/terms.html.erb"
+			],
+			[
+				"priva",
+				"views/about/privacy.html.erb"
+			],
+			[
+				"biopark.sc",
+				"stylesheets/sass/biopark.scss"
+			],
+			[
+				"sales.scs",
+				"stylesheets/sass/sales.scss"
+			],
+			[
+				"fonts.sc",
+				"stylesheets/sass/_fonts.scss"
+			],
+			[
+				"mixins",
+				"stylesheets/sass/_mixins.scss"
+			],
+			[
+				"plan_butt",
+				"views/plan/_plan_buttons.html.erb"
+			],
+			[
+				"event_buttons",
+				"views/event/_event_buttons.html.erb"
+			],
+			[
+				"_survey",
+				"views/shared/lightboxes/_survey.html.erb"
+			],
+			[
+				"survey",
+				"views/shared/lightboxes/_survey.html.erb"
+			],
+			[
+				"style.s",
+				"views/platform/styles.css.erb"
+			],
+			[
+				"_respo",
+				"stylesheets/sass/_responsivegrid.scss"
+			],
+			[
+				"home.",
+				"views/profile/home.html.erb"
+			],
+			[
+				"base.scss",
+				"stylesheets/sass/_base.scss"
+			],
+			[
+				"/about/terms",
+				"views/about/terms.html.erb"
+			],
+			[
+				"status_bar",
+				"views/admin/events/_status_bar.html.erb"
+			],
+			[
+				"_popup",
+				"javascripts/tinymce/tiny_mce_popup.js"
+			],
+			[
+				"landing1",
+				"views/about/landing1.html.erb"
+			],
+			[
+				"landin",
+				"views/about/landingtrade.html.erb"
+			],
+			[
+				"comp_tab",
+				"views/about/_comp_table.html.erb"
+			],
+			[
+				"metricsadmin_table",
+				"views/about/_metricsadmin_table.html.erb"
+			],
+			[
+				"features_",
+				"views/about/features_content.html.erb"
+			],
+			[
+				"getstart",
+				"views/about/_getstarted_bar.html.erb"
+			],
+			[
+				"login_",
+				"views/platform/login_thanks.html.erb"
+			],
+			[
+				"login_reco",
+				"views/platform/login_recovery.html.erb"
+			],
+			[
+				"pricing",
+				"views/about/pricing.html.erb"
+			],
+			[
+				"comp_table",
+				"views/about/_comp_table.html.erb"
+			],
+			[
+				"_base.sc",
+				"stylesheets/sass/_base.scss"
+			],
+			[
+				"getstar",
+				"views/about/_getstarted_bar.html.erb"
+			],
+			[
+				"default.sc",
+				"stylesheets/sass/default.scss"
+			],
+			[
+				"feature_wid",
+				"views/about/features_widgets.html.erb"
+			],
+			[
+				"feature_mobile",
+				"views/about/features_mobile.html.erb"
+			],
+			[
+				"admin.scss",
+				"stylesheets/sass/admin.scss"
+			],
+			[
+				"pacific.sc",
+				"stylesheets/sass/pacific.scss"
+			],
+			[
+				"admin_login",
+				"views/auth/admin_login.html.erb"
+			],
+			[
+				"theme.",
+				"views/admin/platforms/theme.html.erb"
+			],
+			[
+				"pacific.css",
+				"stylesheets/pacific.css"
+			],
+			[
+				"mcdaniel.sc",
+				"stylesheets/sass/mcdaniel.scss"
+			],
+			[
+				"dclinktank.sc",
+				"stylesheets/sass/dclinktank.scss"
+			],
+			[
+				"fonts",
+				"stylesheets/sass/_fonts.scss"
+			],
+			[
+				"theme",
+				"views/admin/platforms/theme.html.erb"
+			],
+			[
+				"base",
+				"stylesheets/sass/_base.scss"
+			],
+			[
+				"partners",
+				"views/about/partners.html.erb"
+			],
+			[
+				"platform_reco",
+				"views/signup_mailer/platform_recovery.text.erb"
+			],
+			[
+				"add_csv",
+				"views/admin/users/add_csv.html.erb"
+			],
+			[
+				"add_",
+				"views/admin/groups/add_csv.html.erb"
+			],
+			[
+				"add_event",
+				"views/school/_add_event_block.html.erb"
+			],
+			[
+				"platform_",
+				"views/shared/_platform_info_bar.html.erb"
+			],
+			[
+				"disabled_",
+				"views/shared/disabled_platform.html.erb"
+			],
+			[
+				"admin_menu",
+				"views/shared/_admin_menu.html.erb"
+			],
+			[
+				"fancybox.sc",
+				"stylesheets/sass/_fancybox.scss"
+			],
+			[
+				"notific",
+				"views/settings/notifications.html.erb"
+			],
+			[
+				"getstarted",
+				"views/about/_getstarted_bar.html.erb"
+			],
+			[
+				"featres_mob",
+				"views/about/features_mobile.html.erb"
+			],
+			[
+				"features_ss",
+				"views/about/features_sso.html.erb"
+			],
+			[
+				"cornel.sc",
+				"stylesheets/sass/cornell.scss"
+			],
+			[
+				"features_wid",
+				"views/about/features_widgets.html.erb"
+			],
+			[
+				"features_con",
+				"views/about/features_content.html.erb"
+			],
+			[
+				"features_desi",
+				"views/about/features_design.html.erb"
+			],
+			[
+				"cloud",
+				"views/about/features_cloud.html.erb"
+			],
+			[
+				"colors.scss",
+				"stylesheets/sass/_colors.scss"
+			],
+			[
+				"style.",
+				"views/platform/styles.css.erb"
+			],
+			[
+				"enterprise",
+				"stylesheets/sass/enterprise.scss"
+			],
+			[
+				"collegetown.sc",
+				"stylesheets/sass/collegetown.scss"
+			],
+			[
+				"landing",
+				"views/layouts/landing.html.erb"
+			],
+			[
+				"takethenext",
+				"platforms/dclinktank/views/notifications_mailer/new_photo_comment.text.erb"
+			],
+			[
+				"design",
+				"views/about/features_design.html.erb"
+			],
+			[
+				"_base",
+				"stylesheets/sass/_base.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}

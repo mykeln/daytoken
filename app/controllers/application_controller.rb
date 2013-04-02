@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   before_filter :get_app_name
 
   def get_app_name
-    @app_name = "DayToken"
+    @app_name = "Pinecone"
   end
 
 private

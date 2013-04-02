@@ -3,14 +3,31 @@
 <head>
   <meta charset="utf-8">
   <title><%= @app_name %></title>
+
+  <!-- mobile device stuff -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Loading Bootstrap -->
-  <link href="/css/bootstrap.css" rel="stylesheet">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
-  <!-- Loading Flat UI -->
+  <link rel="apple-touch-startup-image" href="startup.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" rel="apple-touch-startup-image"/>
+  <link rel="apple-touch-startup-image" href="startup-iphone4.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+
+  <link rel="apple-touch-icon-precomposed" href="touch-icon-iphone.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="touch-icon-ipad.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="touch-icon-iphone4.png" />
+
+  <link rel="shortcut icon" href="touch-icon-iphone.png">
+
+  <!-- bootstrap -->
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+  <!-- flat ui -->
   <link href="/css/flat-ui.css" rel="stylesheet">
-  <link href="/css/style.css" rel="stylesheet">
+
+  <!-- remaining override css -->
+  <link rel="stylesheet" href="/css/style.css">
 
 
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
@@ -27,24 +44,23 @@
   <% end %>
 
   <div class="row">
-    <div class="span9">
-      <h1 class="demo-panel-title"><%= @app_name %></h1>
+    <div class="span8">
+      <h1 class="demo-panel-title"><a href="/" title="Pinecone Home"><%= @app_name %></a></h1>
     </div>
-    <div class="span3">
+    <div class="span4">
       <% if current_user %>
        <%= render :partial => 'shared/user_menu' %>
       <% end %>
     </div>
   </div>
 
+  <% unless current_user %>
+    <%= render :partial => 'shared/signup_form' %>
+    <%= render :partial => 'shared/login_form' %>
+  <% end %>
+  <%= render :partial => 'shared/token_form' %>
+
   <div class="row">
-    <% unless current_user %>
-      <%= render :partial => 'shared/signup_form' %>
-      <%= render :partial => 'shared/login_form' %>
-    <% end %>
-
-    <%= render :partial => 'shared/token_form' %>
-
     <%= yield %>
   </div>
 </div><!-- /container -->
@@ -54,10 +70,6 @@
     <div class="row">
       <div class="span12">
         <h3 class="footer-title"><%= @app_name %></h3>
-        <h5>What do you want to remember about today?</h5>
-      <p>What if you could only make one status update per day? What would you share?</p>
-      <p>Did you close a big sale? Get your Master's degree? Share an existential moment with your dog?</p>
-      <p>Choose the one that matters the most and share it. One at a time.</p>
       </div>
     </div>
   </div>
