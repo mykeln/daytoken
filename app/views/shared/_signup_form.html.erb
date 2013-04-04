@@ -1,8 +1,8 @@
 <div class="row">
-  <div class="span4">
-    <h3 class="demo-panel-title">Want to remember?</h3>
-  </div>
-  <div class="span4">
+
+  <div class="span12">
+    <h3 class="demo-panel-title">What if you could only make one status update per day? What would you share?</h3>
+
     <%= form_for @user do |f| %>
       <% if @user.errors.any? %>
         <ul>
@@ -11,6 +11,7 @@
           <% end %>
         </ul>
       <% end %>
+
     <div class="login-form">
       <div class="control-group">
         <%= f.text_field :email, placeholder: "Email", class: "login-field" %>
@@ -35,13 +36,12 @@
     </div>
     <% end %>
   </div>
-  <div class="span4">
+</div>
+<!--
     <div class="intro">
-      <p>What if you could only make one status update per day? What would you share?</p>
       <p>Did you close a big sale? Get your Master's degree? Share an existential moment with your dog?</p>
       <p>Choose the one that matters the most and share it. One at a time.</p>
       <p><b>What do you want to remember about today?</b></p>
     </div>
-  </div>
-</div>
+    -->
 
