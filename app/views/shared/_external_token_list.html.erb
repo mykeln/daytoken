@@ -8,7 +8,7 @@
                 <h4 class="todo-name">
                   <%= ribbit.content %>
                 </h4>
-                <%= ribbit.user.username %> / <%= (ribbit.created_at).strftime("%b%d") %>
+                <%= (ribbit.created_at).strftime("%b%d") %> - <%= ribbit.user.username %>
               </div>
             </li>
           <% end %>

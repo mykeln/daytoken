@@ -308,7 +308,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Mykel/Sites/daytoken/app/views/layouts/application.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_login_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/js/script.js",
+		"/Users/Mykel/Sites/daytoken/public/css/flat-ui.css",
 		"/Users/Mykel/Sites/daytoken/app/views/shared/_token_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/css/style.css",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_signup_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/css/bootstrap.css",
 		"/Users/Mykel/Sites/daytoken/app/views/users/show.html.erb",
 		"/Users/Mykel/Sites/daytoken/app/views/users/buddies.html.erb",
 		"/Users/Mykel/Sites/daytoken/app/models/ribbit.rb",
@@ -316,13 +323,8 @@
 		"/Users/Mykel/Sites/daytoken/app/views/shared/_external_token_list.html.erb",
 		"/Users/Mykel/Sites/daytoken/public/sass/modules/_demo.sass",
 		"/Users/Mykel/Sites/daytoken/public/sass/_config.sass",
-		"/Users/Mykel/Sites/daytoken/public/css/flat-ui.css",
-		"/Users/Mykel/Sites/daytoken/app/views/shared/_signup_form.html.erb",
 		"/Users/Mykel/Sites/daytoken/app/views/ribbits/index.html.erb",
 		"/Users/Mykel/Sites/daytoken/public/js/fastclick.js",
-		"/Users/Mykel/Sites/daytoken/app/views/layouts/application.html.erb",
-		"/Users/Mykel/Sites/daytoken/app/views/shared/_login_form.html.erb",
-		"/Users/Mykel/Sites/daytoken/public/css/style.css",
 		"/Users/Mykel/Sites/daytoken/boot.sh",
 		"/Users/Mykel/Sites/daytoken/config.ru",
 		"/Users/Mykel/Sites/daytoken/Gemfile",
@@ -433,9 +435,7 @@
 		"/Users/Mykel/Localist/app/views/shared/_platform_nav.html.erb",
 		"/Users/Mykel/Localist/app/views/profile/home.html.erb",
 		"/Users/Mykel/Localist/app/views/about/calculator.html.erb",
-		"/Users/Mykel/Localist/public/stylesheets/sass/responsivegrid.scss",
-		"/Users/Mykel/Localist/public/stylesheets/responsivegrid.css",
-		"/Users/Mykel/Localist/app/views/about/resources.html.erb"
+		"/Users/Mykel/Localist/public/stylesheets/sass/responsivegrid.scss"
 	],
 	"find":
 	{
@@ -498,6 +498,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Memorize",
+			"textarea,",
+			"font-size: 16px",
+			"16px",
+			"have an account",
+			".ScrollMe",
+			":focus",
+			":selected",
 			"login-form",
 			"2FE2BF",
 			"16A085",
@@ -617,15 +625,7 @@
 			"daily until",
 			"p.prev",
 			"ins",
-			"#x-new-instance-input",
-			"event create",
-			"p.preview",
-			"<sup>required</sup>",
-			"Where's the desc",
-			"promo_screens",
-			"getstarted_button_bar",
-			"get started",
-			"Enter your calendar's"
+			"#x-new-instance-input"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -633,6 +633,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			".scroll",
 			"FF3C34",
 			"C0392B",
 			"E74C3C",
@@ -759,8 +760,7 @@
 			"Localist Administration",
 			"Localist",
 			" ",
-			"Localist",
-			" "
+			"Localist"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -809,7 +809,7 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 341.0
+		"height": 473.0
 	},
 	"replace":
 	{
@@ -822,8 +822,20 @@
 		"selected_items":
 		[
 			[
+				"login_form",
+				"app/views/shared/_login_form.html.erb"
+			],
+			[
 				"style.css",
 				"public/css/style.css"
+			],
+			[
+				"signup",
+				"app/views/shared/_signup_form.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
 			],
 			[
 				"applic",
@@ -840,10 +852,6 @@
 			[
 				"application.html",
 				"app/views/layouts/application.html.erb"
-			],
-			[
-				"signup",
-				"app/views/shared/_signup_form.html.erb"
 			],
 			[
 				"highered",
@@ -1324,14 +1332,6 @@
 			[
 				"takethenext",
 				"platforms/dclinktank/views/notifications_mailer/new_photo_comment.text.erb"
-			],
-			[
-				"design",
-				"views/about/features_design.html.erb"
-			],
-			[
-				"_base",
-				"stylesheets/sass/_base.scss"
 			]
 		],
 		"width": 0.0

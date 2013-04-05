@@ -2,7 +2,7 @@
 <div class="row">
   <%= form_for @ribbit do |f| %>
     <div class="span12">
-      <%= f.text_field :content, class: 'span12', :placeholder => "What do you want to remember about today?" %>
+      <%= f.text_field :content, class: 'span12', :maxlength => '160', :id => 'token_form_input', :placeholder => "What do you want to remember about today?" %>
     </div>
     <div class="span8">
     <!-- share stuff
@@ -41,7 +41,7 @@
     </div>
 
     <div class="span4">
-      <%= f.submit "Memorize", :class => "btn btn-large btn-block btn-primary" %>
+      <%= f.submit "Remember This", :id => 'remember-button', :class => "btn btn-large btn-block btn-primary" %>
     </div>
 
   <% end %>
