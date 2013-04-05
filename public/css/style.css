@@ -1,3 +1,12 @@
+/* functions */
+#have-an-account {
+   -webkit-transition:left 5s ease;  // here the animation is set on 5 seconds
+   -moz-transition:left 5s ease;  // adjust to whatever value you want
+   -o-transition:left 5s ease;
+   transition:left 5s ease;
+}
+
+
 html,body {
   background: #C0392B url(/splash-iphone4.png);
 }
@@ -30,6 +39,16 @@ h1.demo-panel-title {
 
 .btn-toolbar .btn {
   padding: 10px 35px 9px;
+  width: 1px;
+  background: #1DBC9C;
+}
+
+  .btn-toolbar .btn:active, .btn-toolbar .btn:hover{
+    background: #16A085;
+  }
+
+.btn-group {
+  width: 100%;
 }
 
 .intro p {

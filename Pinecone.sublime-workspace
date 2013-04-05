@@ -167,102 +167,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/shared/_external_token_list.html.erb",
-			"settings":
-			{
-				"buffer_size": 490,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/shared/_internal_token_list.html.erb",
-			"settings":
-			{
-				"buffer_size": 464,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 3100,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/ribbits/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 127,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/ribbit.rb",
-			"settings":
-			{
-				"buffer_size": 203,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/users/buddies.html.erb",
-			"settings":
-			{
-				"buffer_size": 110,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/users/show.html.erb",
-			"settings":
-			{
-				"buffer_size": 1004,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/style.css",
-			"settings":
-			{
-				"buffer_size": 145,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/flat-ui.css",
-			"settings":
-			{
-				"buffer_size": 68140,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/shared/_signup_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 1814,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/shared/_login_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 789,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/shared/_token_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 2025,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -404,7 +308,21 @@
 	},
 	"file_history":
 	[
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_token_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/users/show.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/users/buddies.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/models/ribbit.rb",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_internal_token_list.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_external_token_list.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/sass/modules/_demo.sass",
+		"/Users/Mykel/Sites/daytoken/public/sass/_config.sass",
 		"/Users/Mykel/Sites/daytoken/public/css/flat-ui.css",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_signup_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/ribbits/index.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/js/fastclick.js",
+		"/Users/Mykel/Sites/daytoken/app/views/layouts/application.html.erb",
+		"/Users/Mykel/Sites/daytoken/app/views/shared/_login_form.html.erb",
+		"/Users/Mykel/Sites/daytoken/public/css/style.css",
 		"/Users/Mykel/Sites/daytoken/boot.sh",
 		"/Users/Mykel/Sites/daytoken/config.ru",
 		"/Users/Mykel/Sites/daytoken/Gemfile",
@@ -413,7 +331,6 @@
 		"/Users/Mykel/Sites/daytoken/README.rdoc",
 		"/Users/Mykel/Sites/daytoken/public/style.less",
 		"/Users/Mykel/Sites/daytoken/config/environments/production.rb",
-		"/Users/Mykel/Sites/daytoken/app/views/shared/_signup_form.html.erb",
 		"/Users/Mykel/Sites/daytoken/config/environments/development.rb",
 		"/Users/Mykel/Sites/daytoken/db/schema.rb",
 		"/Users/Mykel/Sites/daytoken/README.md",
@@ -518,20 +435,7 @@
 		"/Users/Mykel/Localist/app/views/about/calculator.html.erb",
 		"/Users/Mykel/Localist/public/stylesheets/sass/responsivegrid.scss",
 		"/Users/Mykel/Localist/public/stylesheets/responsivegrid.css",
-		"/Users/Mykel/Localist/app/views/about/resources.html.erb",
-		"/Users/Mykel/Desktop/blah.csv",
-		"/Users/Mykel/Localist/app/views/about/features_design.html.erb",
-		"/Users/Mykel/Localist/app/views/about/landingtrade.html.erb",
-		"/Users/Mykel/Localist/app/views/admin/platforms/edit.html.erb",
-		"/Users/Mykel/Localist/app/views/group/_group_buttons.html.erb",
-		"/Users/Mykel/Localist/app/views/platform/personalize.html.erb",
-		"/Users/Mykel/Localist/app/views/about/_next_steps_tg.html.erb",
-		"/Users/Mykel/Localist/app/views/about/tailgate.html.erb",
-		"/Users/Mykel/Localist/app/views/platform_mailer/welcome.html.erb",
-		"/Users/Mykel/Localist/app/views/layouts/about.html.erb",
-		"/Users/Mykel/Localist/app/views/about/careers.html.erb",
-		"/Users/Mykel/Localist/app/views/about/press_kit.html.erb",
-		"/Users/Mykel/Localist/app/platforms/newschool/views/school/_add_event_block.html.erb"
+		"/Users/Mykel/Localist/app/views/about/resources.html.erb"
 	],
 	"find":
 	{
@@ -594,6 +498,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"login-form",
+			"2FE2BF",
+			"16A085",
+			"1ABC9C",
+			"2ecc71",
+			"demo-",
 			"input[type",
 			".btn-toolbar .btn",
 			"Following Memo",
@@ -715,13 +625,7 @@
 			"promo_screens",
 			"getstarted_button_bar",
 			"get started",
-			"Enter your calendar's",
-			"blog",
-			"grid_container case_study",
-			"case_stu",
-			"The Problem",
-			"What you'll read",
-			"Localist eBook"
+			"Enter your calendar's"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -729,6 +633,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"FF3C34",
+			"C0392B",
+			"E74C3C",
 			"onboard_ac",
 			"\"",
 			"<sup>*</sup>",
@@ -853,10 +760,7 @@
 			"Localist",
 			" ",
 			"Localist",
-			" ",
-			"Localist",
-			"</p>\\n",
-			"\""
+			" "
 		],
 		"reverse": false,
 		"show_context": false,
@@ -867,337 +771,8 @@
 	"groups":
 	[
 		{
-			"selected": 7,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/shared/_external_token_list.html.erb",
-					"settings":
-					{
-						"buffer_size": 490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								490,
-								1
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/views/shared/_internal_token_list.html.erb",
-					"settings":
-					{
-						"buffer_size": 464,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 3100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2182,
-								2182
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1574.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/views/ribbits/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								127
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/models/ribbit.rb",
-					"settings":
-					{
-						"buffer_size": 203,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								199,
-								199
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/views/users/buddies.html.erb",
-					"settings":
-					{
-						"buffer_size": 110,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								110,
-								110
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/views/users/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 1004,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "public/css/style.css",
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								102,
-								102
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "public/css/flat-ui.css",
-					"settings":
-					{
-						"buffer_size": 68140,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20262,
-								20262
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 33061.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/views/shared/_signup_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 1814,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1796,
-								1796
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 499.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/views/shared/_login_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 789,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								782,
-								782
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "app/views/shared/_token_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 2025,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2014,
-								2014
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 659.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1234,7 +809,7 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 306.0
+		"height": 341.0
 	},
 	"replace":
 	{
